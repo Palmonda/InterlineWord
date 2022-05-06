@@ -8,3 +8,6 @@ I emulate using js a storage space for your files. Using the other palmonda apps
 
 ### How does it work?
 Palmonda apps write an index file and store strings. This strings can become cleared (= delet: clear string, clear part of index).
+
+## Export
+Interline Word opens a data uri and creates a file.
